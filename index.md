@@ -1,12 +1,12 @@
 ---
 ---
 
-# daisylab-knu's Website
+# KNU DAISY LAB
 
-An engaging 1-3 sentence description of your lab.
+**D**ata **A**nalytics & **I**ntelligent **S**ystem
+DAISY Lab은 의료 데이터(영상·생체신호·임상 기록 등)를 기반으로 신뢰할 수 있는 인공지능 모델과 지능형 분석 시스템을 연구합니다.
 
 {% include section.html %}
-
 ## Highlights
 
 {% capture text %}
