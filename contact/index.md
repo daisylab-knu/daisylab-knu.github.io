@@ -7,7 +7,9 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-DAISY Lab에서 함께 성장할 학부 연구생·대학원생을 모집합니다.
+<p style="text-align:center;">
+  DAISY Lab에서 함께 성장할 학부 연구생·대학원생을 모집합니다.
+</p>
 
 {%
   include button.html
