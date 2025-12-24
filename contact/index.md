@@ -21,7 +21,7 @@ DAISY Lab에서 함께 성장할 학부 연구생·대학원생을 모집합니�
   type="address"
   text="아산관 309-1"
   tooltip="Our location on Google Maps for easy navigation"
-  link="[https://www.google.com/maps](https://maps.app.goo.gl/nEukvBsEtYugisCeA)"
+  link="https://maps.app.goo.gl/nEukvBsEtYugisCeA"
 %}
 
 {% include section.html %}
