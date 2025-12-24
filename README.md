@@ -5,6 +5,6 @@
 
   # daisylab-knu's Website
 
-  Visit **[website url](#)** 🚀
+  Visit **[daisylab-knu.github.io](https://daisylab-knu.github.io)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
