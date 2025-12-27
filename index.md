@@ -4,7 +4,6 @@
 
 # KNU DAISY LAB
 
-**D**ata **A**nalytics & **I**ntelligent **S**ystem  
 DAISY Lab은 의료 데이터(영상·생체신호·임상 기록 등)를 기반으로 신뢰할 수 있는 인공지능 모델과 지능형 분석 시스템을 연구합니다.
 
 </div>
@@ -14,7 +13,6 @@ DAISY Lab은 의료 데이터(영상·생체신호·임상 기록 등)를 기반
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 {%
   include button.html
@@ -37,7 +35,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 {%
   include button.html
@@ -62,7 +59,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 {%
   include button.html
