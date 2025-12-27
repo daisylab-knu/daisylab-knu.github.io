@@ -1,6 +1,6 @@
 # site properties and page defaults
-title: daisylab-knu
-subtitle: 
+title: DAISY LAB
+subtitle: Data Analytics & Intelligent System
 description: An engaging 1-3 sentence description of your lab.
 header: images/background.jpg
 footer: images/background.jpg
@@ -8,13 +8,9 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@daisylab-knu.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  email: daisylab.knu.gmail.com
   github: daisylab-knu
-  twitter: daisylab-knu
-  youtube: daisylab-knu
-
+  
 ### jekyll settings
 
 # front matter defaults
