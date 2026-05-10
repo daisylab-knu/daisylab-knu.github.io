@@ -7,29 +7,25 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Meet the members of DAISY Lab.
 
 {% include section.html %}
 
+### Professor
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
-{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
-
-{% include section.html background="images/background.jpg" dark=true %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html %}
 
-{% capture content %}
+### PhD Students
+{% include list.html data="members" component="portrait" filter="role == 'phd' and group != 'alum'" %}
 
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
+### MS Students
+{% include list.html data="members" component="portrait" filter="role == 'ms' and group != 'alum'" %}
 
-{% endcapture %}
+### Undergraduate Students
+{% include list.html data="members" component="portrait" filter="role == 'undergrad' and group != 'alum'" %}
 
-{% include grid.html style="square" content=content %}
+{% include section.html %}
+
+### Alumni
+{% include list.html data="members" component="portrait" filter="group == 'alum'" %}
