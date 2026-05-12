@@ -47,6 +47,7 @@ $wrap: 800px;
 .post-excerpt-text > a:first-child {
   width: 100%;
   font-weight: var(--semi-bold);
+  font-size: 1.25em; /* Make title bigger to fix the gap issue */
 }
 
 .post-excerpt-text > div {
@@ -66,4 +67,21 @@ $wrap: 800px;
     width: unset;
     height: $thumb-size;
   }
+}
+
+.post-date-divider {
+  display: flex;
+  align-items: center;
+  color: var(--dark);
+  margin: 40px 0 10px 0;
+  font-family: var(--heading);
+  font-weight: var(--bold);
+  font-size: 1.1em;
+}
+
+.post-date-divider::after {
+  content: '';
+  flex: 1;
+  border-bottom: 2px solid var(--light-gray);
+  margin-left: 20px;
 }

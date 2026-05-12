@@ -8,6 +8,10 @@
   {% assign post = include %}
 {% endif %}
 
+<div class="post-date-divider">
+  <span>{{ post.date | date: "%B %-d, %Y" }}</span>
+</div>
+
 <div class="post-excerpt-container">
   <div class="post-excerpt">
     {% assign url = post.url | relative_url | uri_escape %}
@@ -32,14 +36,6 @@
     <div class="post-excerpt-text">
       <a href="{{ url }}">{{ title }}</a>
 
-      {%
-        include post-info.html
-        author=post.author
-        published=post.date
-        updated=post.last_modified_at
-        tags=post.tags
-      %}
-
       {% assign excerpt = post.content
         | default: ""
         | regex_scan: "<!-- excerpt start -->(.*)<!-- excerpt end -->", true
@@ -55,6 +51,12 @@
       <p data-search="{{ search }}">
         {{ excerpt }}
       </p>
+
+      {%
+        include post-info.html
+        author=post.author
+        tags=post.tags
+      %}
     </div>
   </div>
 </div>

@@ -1,47 +1,59 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: 설명가능 진단 모델 개발
+  subtitle: Explainable Diagnostic Model
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/연구주제1.png
+  description: 의료 영상, 생체신호, 임상 기록 등 다양한 데이터를 기반으로 진단 결과의 근거를 해석 가능하게 제시하는 설명가능 인공지능 모델을 개발합니다.
   tags:
-    - resource
+    - XAI
+    - medical imaging
+    - diagnostics
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: 설명가능 예후 예측 모델 개발
+  subtitle: Explainable Prognosis Prediction Model
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/연구주제2.png
+  description: 환자의 임상 경과를 예측함과 동시에 예측 결과의 주요 요인을 정량적으로 설명할 수 있는 설명가능 예후 예측 모델을 개발합니다.
   tags:
-    - resource
+    - XAI
+    - prognosis
+    - predictive modeling
 
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: 멀티모달 의료 리포트 생성 모델 개발
+  subtitle: Multimodal Medical Report Generation Model
+  group: featured
+  image: images/연구주제3.png
+  description: 의료 영상, 임상 기록을 통합한 멀티모달 데이터를 활용하여 임상적으로 유의미한 의료 리포트를 자동으로 생성하는 모델을 개발합니다.
   tags:
-    - resource
-    - publication
+    - multimodal
+    - report generation
+    - medical imaging
 
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: 다중 사이트 연합학습
+  subtitle: Multi-site Federated Learning
+  group: featured
+  image: images/연구주제4.png
+  description: 여러 의료 기관에 분산된 데이터를 직접 공유하지 않고도 학습이 가능하도록 개인정보 보호와 데이터 보안을 고려한 다중 사이트 연합학습 기법을 연구합니다.
   tags:
-    - software
+    - federated learning
+    - privacy preserving
+    - data security
 
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: 의료 영상 간 모달리티 변환
+  subtitle: Medical Image Modality Translation
+  group: featured
+  image: images/연구주제5.png
+  description: 결측 데이터 보완과 비용 효율성 향상을 위해 서로 다른 의료 영상 모달리티 간 변환을 수행하는 인공지능 모델을 개발합니다.
   tags:
-    - software
+    - modality translation
+    - generative AI
+    - medical imaging
+
+- title: 뇌 신호 디코딩
+  subtitle: Brain Signal Decoding
+  group: featured
+  image: images/연구주제6.png
+  description: 뇌 신호를 분석하여 시각 자극이나 인지 정보를 복원하고 해석하는 인공지능 모델을 연구합니다.
+  tags:
+    - brain signal decoding
+    - BCI
+    - cognitive science

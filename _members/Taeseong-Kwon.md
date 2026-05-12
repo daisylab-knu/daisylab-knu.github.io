@@ -1,7 +1,7 @@
 ---
 name: Taeseong Kwon
-image: images/photo.jpg
-role: Undergraduate Student
+image: images/Taeseong.jpg
+role: undergrad
 links:
   github: TaeeeSeong
 ---

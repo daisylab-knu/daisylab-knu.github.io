@@ -16,14 +16,16 @@ Meet the members of DAISY Lab.
 
 {% include section.html %}
 
-### PhD Students
-{% include list.html data="members" component="portrait" filter="role == 'phd' and group != 'alum'" %}
+<!-- ### PhD Students
+{% include list.html data="members" component="portrait" filter="role == 'phd' and group != 'alum'" %} -->
 
-### MS Students
-{% include list.html data="members" component="portrait" filter="role == 'ms' and group != 'alum'" %}
+<!-- ### MS Students
+{% include list.html data="members" component="portrait" filter="role == 'ms' and group != 'alum'" %} -->
 
-### Undergraduate Students
+### Students
+<div style="display: flex; flex-direction: column; align-items: center;">
 {% include list.html data="members" component="portrait" filter="role == 'undergrad' and group != 'alum'" %}
+</div>
 
 {% include section.html %}
 

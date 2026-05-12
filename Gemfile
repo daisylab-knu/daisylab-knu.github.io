@@ -3,6 +3,8 @@ source "https://rubygems.org"
 # jekyll
 gem "jekyll", "~> 4.3"
 gem "webrick", "~> 1.7"
+gem "ostruct"
+gem "wdm", ">= 0.1.0"
 
 gem "html-proofer", "~> 5.0"
 
