@@ -194,6 +194,7 @@ GEM
 
 PLATFORMS
   aarch64-linux
+  aarch64-linux-gnu
   linux
   ruby
   universal-darwin-21
@@ -217,4 +218,4 @@ DEPENDENCIES
   webrick (~> 1.7)
 
 BUNDLED WITH
-   2.5.6
+  4.0.6
