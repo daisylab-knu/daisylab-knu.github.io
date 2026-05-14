@@ -468,6 +468,28 @@
   <section class="background" data-size="page">
     <h1 id="research">
 <i class="icon fa-solid fa-microscope"></i>Research</h1>
+
+<div style="display: flex; gap: 10px; justify-content: center; margin-bottom: 30px; flex-wrap: wrap;">
+  <a href="#journal" class="button" style="margin: 0;"><i class="icon fa-solid fa-book-open"></i> Journal Papers</a>
+  <a href="#conference" class="button" style="margin: 0;"><i class="icon fa-solid fa-users"></i> Conference Papers</a>
+</div>
+
+<div class="search-box">
+  <input type="text" class="search-input" oninput="onSearchInput(this)" placeholder="Search items on this page">
+  <button disabled data-tooltip="Clear search" aria-label="clear search" onclick="onSearchClear()">
+    <i class="icon fa-solid fa-magnifying-glass"></i>
+  </button>
+</div>
+
+<div class="tags" style="justify-content: center; margin-top: 15px; margin-bottom: 30px;">
+  <a href="?search=%22tag:+medical-imaging%22" class="tag" style="background: var(--light-gray);">Medical Imaging</a>
+  <a href="?search=%22tag:+fMRI%22" class="tag" style="background: var(--light-gray);">fMRI</a>
+  <a href="?search=%22tag:+XAI%22" class="tag" style="background: var(--light-gray);">XAI</a>
+  <a href="?search=%22tag:+autism%22" class="tag" style="background: var(--light-gray);">Autism</a>
+  <a href="?search=%22tag:+generative-AI%22" class="tag" style="background: var(--light-gray);">Generative AI</a>
+</div>
+
+<div class="search-info"></div>
   </section>
 
   
@@ -481,98 +503,9 @@
   <size></size>
 -->
 
-<h2 id="all">All</h2>
-
-<div class="search-box">
-  <input type="text" class="search-input" oninput="onSearchInput(this)" placeholder="Search items on this page">
-  <button disabled data-tooltip="Clear search" aria-label="clear search" onclick="onSearchClear()">
-    <i class="icon fa-solid fa-magnifying-glass"></i>
-  </button>
-</div>
-
-<div class="search-info"></div>
+<h2 id="journal">Journal</h2>
 
 <h3 id="2025">2025</h3>
-
-<div class="citation-container">
-  <div class="citation">
-    
-      <a href="https://doi.org/hbg65k" class="citation-image" aria-label="Quantized Factor Identifiable Causal Effect Variational Autoencoder">
-        <img src="" alt="Quantized Factor Identifiable Causal Effect Variational Autoencoder" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
-      </a>
-    
-
-    <div class="citation-text">
-      
-      
-
-      <a href="https://doi.org/hbg65k" class="citation-title">
-        Quantized Factor Identifiable Causal Effect Variational Autoencoder
-      </a>
-
-      <div class="citation-authors" tabindex="0">
-        Sujeong Song, Junghyo Sohn, Eunsong Kang, Heung-Il Suk
-
-      </div>
-
-      <div class="citation-details">
-        <span class="citation-publisher">Proceedings of the 34th ACM International Conference on Information and Knowledge Management</span>
-         · 
-        <span class="citation-date">10 Nov 2025</span>
-         · 
-        <span class="citation-id">doi:10.1145/3746252.3761300</span>
-      </div>
-
-      
-        
-
-        
-
-        
-      
-    </div>
-  </div>
-</div>
-
-<div class="citation-container">
-  <div class="citation">
-    
-      <a href="https://doi.org/hbg65j" class="citation-image" aria-label="Diff-RRG: Longitudinal Disease-Wise Patch Difference as Guidance for LLM-Based Radiology Report Generation">
-        <img src="" alt="Diff-RRG: Longitudinal Disease-Wise Patch Difference as Guidance for LLM-Based Radiology Report Generation" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
-      </a>
-    
-
-    <div class="citation-text">
-      
-      
-
-      <a href="https://doi.org/hbg65j" class="citation-title">
-        Diff-RRG: Longitudinal Disease-Wise Patch Difference as Guidance for LLM-Based Radiology Report Generation
-      </a>
-
-      <div class="citation-authors" tabindex="0">
-        Hannah Yun, Junyeong Maeng, Eunsong Kang, Heung-Il Suk
-
-      </div>
-
-      <div class="citation-details">
-        <span class="citation-publisher">Lecture Notes in Computer Science</span>
-         · 
-        <span class="citation-date">20 Sep 2025</span>
-         · 
-        <span class="citation-id">doi:10.1007/978-3-032-04981-0_15</span>
-      </div>
-
-      
-        
-
-        
-
-        
-      
-    </div>
-  </div>
-</div>
 
 <div class="citation-container">
   <div class="citation">
@@ -591,7 +524,7 @@
       </a>
 
       <div class="citation-authors" tabindex="0">
-        Kwanseok Oh, Da-Woon Heo, Ahmad Wisnu Mulyadi, Wonsik Jung, Eunsong Kang, Kun Ho Lee, Heung-Il Suk
+        Kwanseok Oh, Da-Woon Heo, Ahmad Wisnu Mulyadi, Wonsik Jung, <strong>Eunsong Kang</strong>, Kun Ho Lee, Heung-Il Suk
 
       </div>
 
@@ -601,46 +534,6 @@
         <span class="citation-date">01 Apr 2025</span>
          · 
         <span class="citation-id">doi:10.1016/j.neuroimage.2025.121077</span>
-      </div>
-
-      
-        
-
-        
-
-        
-      
-    </div>
-  </div>
-</div>
-
-<div class="citation-container">
-  <div class="citation">
-    
-      <a href="https://doi.org/hbg65n" class="citation-image" aria-label="Prototype-Guided Contrastive Knowledge Graph Representation Learning for Diagnosis Prediction">
-        <img src="" alt="Prototype-Guided Contrastive Knowledge Graph Representation Learning for Diagnosis Prediction" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
-      </a>
-    
-
-    <div class="citation-text">
-      
-      
-
-      <a href="https://doi.org/hbg65n" class="citation-title">
-        Prototype-Guided Contrastive Knowledge Graph Representation Learning for Diagnosis Prediction
-      </a>
-
-      <div class="citation-authors" tabindex="0">
-        Wooyeol Park, Ahmad Wisnu Mulyadi, Eunsong Kang, Heung-Il Suk
-
-      </div>
-
-      <div class="citation-details">
-        <span class="citation-publisher">Lecture Notes in Computer Science</span>
-         · 
-        <span class="citation-date">01 Jan 2025</span>
-         · 
-        <span class="citation-id">doi:10.1007/978-981-97-8702-9_18</span>
       </div>
 
       
@@ -673,7 +566,7 @@
       </a>
 
       <div class="citation-authors" tabindex="0">
-        Jaein Lee, Eunsong Kang, Da-Woon Heo, Heung-Il Suk
+        Jaein Lee, <strong>Eunsong Kang</strong>, Da-Woon Heo, Heung-Il Suk
 
       </div>
 
@@ -713,7 +606,7 @@
       </a>
 
       <div class="citation-authors" tabindex="0">
-        Wonsik Jung, Eunjin Jeon, Eunsong Kang, Heung-Il Suk
+        Wonsik Jung, Eunjin Jeon, <strong>Eunsong Kang</strong>, Heung-Il Suk
 
       </div>
 
@@ -753,7 +646,7 @@
       </a>
 
       <div class="citation-authors" tabindex="0">
-        Eunsong Kang, Da-Woon Heo, Jiwon Lee, Heung-II Suk
+        <strong>Eunsong Kang</strong>, Da-Woon Heo, Jiwon Lee, Heung-II Suk
 
       </div>
 
@@ -775,6 +668,144 @@
     </div>
   </div>
 </div>
+  </section>
+
+  
+  
+  
+
+  <section class="background" data-size="page">
+    <!--
+  <background></background>
+  <dark></dark>
+  <size></size>
+-->
+
+<h2 id="conference">Conference</h2>
+
+<h3 id="2025">2025</h3>
+
+<div class="citation-container">
+  <div class="citation">
+    
+      <a href="https://doi.org/hbg65k" class="citation-image" aria-label="Quantized Factor Identifiable Causal Effect Variational Autoencoder">
+        <img src="" alt="Quantized Factor Identifiable Causal Effect Variational Autoencoder" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+      </a>
+    
+
+    <div class="citation-text">
+      
+      
+
+      <a href="https://doi.org/hbg65k" class="citation-title">
+        Quantized Factor Identifiable Causal Effect Variational Autoencoder
+      </a>
+
+      <div class="citation-authors" tabindex="0">
+        Sujeong Song, Junghyo Sohn, <strong>Eunsong Kang</strong>, Heung-Il Suk
+
+      </div>
+
+      <div class="citation-details">
+        <span class="citation-publisher">Proceedings of the 34th ACM International Conference on Information and Knowledge Management</span>
+         · 
+        <span class="citation-date">10 Nov 2025</span>
+         · 
+        <span class="citation-id">doi:10.1145/3746252.3761300</span>
+      </div>
+
+      
+        
+
+        
+
+        
+      
+    </div>
+  </div>
+</div>
+
+<div class="citation-container">
+  <div class="citation">
+    
+      <a href="https://doi.org/hbg65j" class="citation-image" aria-label="Diff-RRG: Longitudinal Disease-Wise Patch Difference as Guidance for LLM-Based Radiology Report Generation">
+        <img src="" alt="Diff-RRG: Longitudinal Disease-Wise Patch Difference as Guidance for LLM-Based Radiology Report Generation" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+      </a>
+    
+
+    <div class="citation-text">
+      
+      
+
+      <a href="https://doi.org/hbg65j" class="citation-title">
+        Diff-RRG: Longitudinal Disease-Wise Patch Difference as Guidance for LLM-Based Radiology Report Generation
+      </a>
+
+      <div class="citation-authors" tabindex="0">
+        Hannah Yun, Junyeong Maeng, <strong>Eunsong Kang</strong>, Heung-Il Suk
+
+      </div>
+
+      <div class="citation-details">
+        <span class="citation-publisher">Lecture Notes in Computer Science</span>
+         · 
+        <span class="citation-date">20 Sep 2025</span>
+         · 
+        <span class="citation-id">doi:10.1007/978-3-032-04981-0_15</span>
+      </div>
+
+      
+        
+
+        
+
+        
+      
+    </div>
+  </div>
+</div>
+
+<div class="citation-container">
+  <div class="citation">
+    
+      <a href="https://doi.org/hbg65n" class="citation-image" aria-label="Prototype-Guided Contrastive Knowledge Graph Representation Learning for Diagnosis Prediction">
+        <img src="" alt="Prototype-Guided Contrastive Knowledge Graph Representation Learning for Diagnosis Prediction" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+      </a>
+    
+
+    <div class="citation-text">
+      
+      
+
+      <a href="https://doi.org/hbg65n" class="citation-title">
+        Prototype-Guided Contrastive Knowledge Graph Representation Learning for Diagnosis Prediction
+      </a>
+
+      <div class="citation-authors" tabindex="0">
+        Wooyeol Park, Ahmad Wisnu Mulyadi, <strong>Eunsong Kang</strong>, Heung-Il Suk
+
+      </div>
+
+      <div class="citation-details">
+        <span class="citation-publisher">Lecture Notes in Computer Science</span>
+         · 
+        <span class="citation-date">01 Jan 2025</span>
+         · 
+        <span class="citation-id">doi:10.1007/978-981-97-8702-9_18</span>
+      </div>
+
+      
+        
+
+        
+
+        
+      
+    </div>
+  </div>
+</div>
+
+<h3 id="2024">2024</h3>
 
 <div class="citation-container">
   <div class="citation">
@@ -793,7 +824,7 @@
       </a>
 
       <div class="citation-authors" tabindex="0">
-        Ah-Yeong Jeong, Da-Woon Heo, Eunsong Kang, Heung-Il Suk
+        Ah-Yeong Jeong, Da-Woon Heo, <strong>Eunsong Kang</strong>, Heung-Il Suk
 
       </div>
 
@@ -803,201 +834,6 @@
         <span class="citation-date">01 Jan 2024</span>
          · 
         <span class="citation-id">doi:10.1007/978-3-031-72069-7_6</span>
-      </div>
-
-      
-        
-
-        
-
-        
-      
-    </div>
-  </div>
-</div>
-
-<h3 id="2020">2020</h3>
-
-<div class="citation-container">
-  <div class="citation">
-    
-      <a href="https://doi.org/c7np" class="citation-image" aria-label="Open collaborative writing with Manubot">
-        <img src="https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&amp;rev=2" alt="Open collaborative writing with Manubot" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
-      </a>
-    
-
-    <div class="citation-text">
-      
-      <i class="icon fa-solid fa-scroll"></i>
-
-      <a href="https://doi.org/c7np" class="citation-title">
-        Open collaborative writing with Manubot
-      </a>
-
-      <div class="citation-authors" tabindex="0">
-        Daniel S. Himmelstein, Vincent Rubinetti, David R. Slochower, Dongbo Hu, Venkat S. Malladi, Casey S. Greene, Anthony Gitter
-
-      </div>
-
-      <div class="citation-details">
-        <span class="citation-publisher">PLOS Computational Biology</span>
-         · 
-        <span class="citation-date">04 Dec 2020</span>
-         · 
-        <span class="citation-id">doi:10.1371/journal.pcbi.1007128</span>
-      </div>
-
-      
-        
-          <div class="citation-description">
-            Lorem ipsum <em>dolor</em> <strong>sit amet</strong>, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-          </div>
-        
-
-        
-          <div class="citation-buttons">
-            
-              
-
-
-
-  <div class="button-wrapper">
-    <a class="button" href="https://greenelab.github.io/meta-review/" data-tooltip="Manubot" data-style="bare" aria-label="Manubot">
-      <span class="icon"><svg xmlns="http://www.w3.org/2000/svg" viewbox="-450 -250 900 500">  <g transform="scale(0.9)">    <path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="50" d="        M -125 125         L -125 -125        L 0 45        L 125 -125        L 125 125      "></path>    <path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="50" d="        M -200 -250        L -330 0         L -200 250      "></path>    <path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="50" d="        m 200 250         L 330 0        L 200 -250      "></path>    <path fill="none" stroke="currentColor" stroke-linecap="round" stroke-width="50" d="        M -330 0        L -370 0      "></path>    <path fill="none" stroke="currentColor" stroke-linecap="round" stroke-width="50" d="        M 330 0        L 370 0      "></path>    <circle cx="-455" cy="0" r="30" fill="none" stroke="currentColor" stroke-width="30"></circle>    <circle cx="455" cy="0" r="30" fill="none" stroke="currentColor" stroke-width="30"></circle>  </g></svg></span>
-      
-        <span>Manubot</span>
-      
-    </a>
-  </div>
-
-
-            
-              
-
-
-
-  <div class="button-wrapper">
-    <a class="button" href="https://github.com/greenelab/meta-review" data-tooltip="Source code" data-style="bare" aria-label="Source code">
-      <i class="icon fa-solid fa-code"></i>
-      
-        <span>Manuscript Source</span>
-      
-    </a>
-  </div>
-
-
-            
-              
-
-
-
-  <div class="button-wrapper">
-    <a class="button" href="http://manubot.org/" data-tooltip="Website" data-style="bare" aria-label="Website">
-      <i class="icon fa-solid fa-globe"></i>
-      
-        <span>Website</span>
-      
-    </a>
-  </div>
-
-
-            
-          </div>
-        
-
-        
-          
-
-
-  <div class="tags" data-repo="greenelab/meta-review">
-    
-      <a href="/research/?search=%22tag:%20open-science%22" class="tag" data-tooltip='Show items with the tag "open-science"'>
-        open-science
-      </a>
-    
-      <a href="/research/?search=%22tag:%20collaboration%22" class="tag" data-tooltip='Show items with the tag "collaboration"'>
-        collaboration
-      </a>
-    
-  </div>
-
-
-        
-      
-    </div>
-  </div>
-</div>
-
-<div class="citation-container">
-  <div class="citation">
-    
-      <a href="https://doi.org/gg7m48" class="citation-image" aria-label="Constructing knowledge graphs and their biomedical applications">
-        <img src="https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg" alt="Constructing knowledge graphs and their biomedical applications" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
-      </a>
-    
-
-    <div class="citation-text">
-      
-      
-
-      <a href="https://doi.org/gg7m48" class="citation-title">
-        Constructing knowledge graphs and their biomedical applications
-      </a>
-
-      <div class="citation-authors" tabindex="0">
-        David N. Nicholson, Casey S. Greene
-
-      </div>
-
-      <div class="citation-details">
-        <span class="citation-publisher">Computational and Structural Biotechnology Journal</span>
-         · 
-        <span class="citation-date">01 Jan 2020</span>
-         · 
-        <span class="citation-id">doi:10.1016/j.csbj.2020.05.017</span>
-      </div>
-
-      
-        
-
-        
-
-        
-      
-    </div>
-  </div>
-</div>
-
-<h3 id="2018">2018</h3>
-
-<div class="citation-container">
-  <div class="citation">
-    
-      <a href="https://doi.org/ckcj" class="citation-image" aria-label="Sci-Hub provides access to nearly all scholarly literature">
-        <img src="https://iiif.elifesciences.org/lax:32822/elife-32822-fig8-v3.tif/full/863,/0/default.webp" alt="Sci-Hub provides access to nearly all scholarly literature" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
-      </a>
-    
-
-    <div class="citation-text">
-      
-      
-
-      <a href="https://doi.org/ckcj" class="citation-title">
-        Sci-Hub provides access to nearly all scholarly literature
-      </a>
-
-      <div class="citation-authors" tabindex="0">
-        Daniel S Himmelstein, Ariel Rodriguez Romero, Jacob G Levernier, Thomas Anthony Munro, Stephen Reid McLaughlin, Bastian Greshake Tzovaras, Casey S Greene
-
-      </div>
-
-      <div class="citation-details">
-        <span class="citation-publisher">eLife</span>
-         · 
-        <span class="citation-date">01 Mar 2018</span>
-         · 
-        <span class="citation-id">doi:10.7554/eLife.32822</span>
       </div>
 
       
@@ -1059,7 +895,7 @@
   </div>
 
   <div>
-    © 2025
+    © 2026
     DAISY LAB
       |   Built with
     <a href="https://github.com/greenelab/lab-website-template">
