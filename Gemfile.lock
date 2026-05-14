@@ -76,7 +76,7 @@ GEM
     http_parser.rb (0.8.1)
     i18n (1.14.8)
       concurrent-ruby (~> 1.0)
-    io-event (1.15.1)
+    io-event (1.16.0)
     jekyll (4.4.1)
       addressable (~> 2.4)
       base64 (~> 0.2)
@@ -195,12 +195,14 @@ GEM
 PLATFORMS
   aarch64-linux
   linux
+  ruby
   universal-darwin-21
   universal-darwin-22
   x64-mingw-ucrt
   x64-mingw32
   x64-unknown
   x86_64-linux
+  x86_64-linux-gnu
 
 DEPENDENCIES
   html-proofer (~> 5.0)
