@@ -4,7 +4,7 @@ source "https://rubygems.org"
 gem "jekyll", "~> 4.3"
 gem "webrick", "~> 1.7"
 gem "ostruct"
-gem "wdm", ">= 0.1.0"
+gem "wdm", ">= 0.1.0", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem "html-proofer", "~> 5.0"
 

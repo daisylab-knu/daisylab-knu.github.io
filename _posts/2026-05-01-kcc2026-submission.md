@@ -4,6 +4,7 @@ author: DAISY LAB
 date: 2026-05-01
 tags: [notice, KCC2026, fMRI, LLM, publication]
 icon: "fa-solid fa-file-pen"
+published: false
 ---
 
 DAISY LAB에서 KCC 2026(한국컴퓨터종합학술대회)에 두 편의 연구 논문을 성공적으로 제출했습니다! 
