@@ -3,12 +3,13 @@
 - id: doi:10.1007/978-3-032-04981-0_15
   title: "Diff-RRG: Longitudinal Disease-Wise Patch Difference as\_Guidance for\_\
     LLM-Based Radiology Report Generation"
+  image: /images/Diff-RRG Longitudinal Disease-Wise Patch Difference as Guidance for LLM-Based Radiology Report Generation.png
   authors:
   - Hannah Yun
   - Junyeong Maeng
   - Eunsong Kang
   - Heung-Il Suk
-  publisher: Lecture Notes in Computer Science
+  publisher: Medical Image Computing and Computer Assisted Intervention – MICCAI 2025. MICCAI 2025. Lecture Notes in Computer Science
   date: '2025-09-20'
   link: https://doi.org/hbg65j
   orcid: 0009-0007-3010-5144
@@ -16,6 +17,7 @@
   file: orcid.yaml
 - id: doi:10.1145/3746252.3761300
   title: Quantized Factor Identifiable Causal Effect Variational Autoencoder
+  image: /images/Quantized Factor Identifiable Causal Effect Variational Autoencoder.png
   authors:
   - Sujeong Song
   - Junghyo Sohn
@@ -31,6 +33,7 @@
 - id: doi:10.1016/j.neuroimage.2025.121077
   title: "A quantitatively interpretable model for Alzheimer\u2019s disease prediction\
     \ using deep counterfactuals"
+  image: /images/A quantitatively interpretable model for Alzheimer’s disease prediction using.jpg
   authors:
   - Kwanseok Oh
   - Da-Woon Heo
@@ -48,13 +51,14 @@
 - id: doi:10.1007/978-981-97-8702-9_18
   title: "Prototype-Guided Contrastive Knowledge Graph Representation Learning for\_\
     Diagnosis Prediction"
+  image: /images/Prototype-Guided Contrastive Knowledge Graph Representation Learning for Diagnosis Prediction.png
   authors:
   - Wooyeol Park
   - Ahmad Wisnu Mulyadi
   - Eunsong Kang
   - Heung-Il Suk
-  publisher: Lecture Notes in Computer Science
-  date: '2025-01-01'
+  publisher: Pattern Recognition and Artificial Intelligence. ICPRAI 2024. Lecture Notes in Computer Science
+  date: '2025-02-01'
   link: https://doi.org/hbg65n
   orcid: 0009-0007-3010-5144
   plugin: orcid.py
@@ -62,6 +66,7 @@
 - id: doi:10.1109/TNNLS.2023.3311195
   title: Site-Invariant Meta-Modulation Learning for Multisite Autism Spectrum Disorders
     Diagnosis
+  image: /images/Site-Invariant Meta-Modulation Learning for Multisite Autism Spectrum Disorders Diagnosis.gif
   authors:
   - Jaein Lee
   - Eunsong Kang
@@ -76,11 +81,12 @@
 - id: doi:10.1109/TMI.2023.3337074
   title: A Learnable Counter-Condition Analysis Framework for Functional Connectivity-Based
     Neurological Disorder Diagnosis
+  image: /images/A Learnable Counter-Condition Analysis Framework for Functional Connectivity-Based Neurological Disorder Diagnosis.gif
   authors:
   - Eunsong Kang
   - Da-Woon Heo
   - Jiwon Lee
-  - Heung-II Suk
+  - Heung-Il Suk
   publisher: IEEE Transactions on Medical Imaging
   date: '2024-04-01'
   link: https://doi.org/hbg65q
@@ -90,6 +96,7 @@
 - id: doi:10.1109/TMI.2023.3337362
   title: 'EAG-RS: A Novel Explainability-Guided ROI-Selection Framework for ASD Diagnosis
     via Inter-Regional Relation Learning'
+  image: /images/EAG-RS A Novel Explainability-Guided ROI-Selection Framework for ASD Diagnosis via Inter-Regional Relation Learning.gif
   authors:
   - Wonsik Jung
   - Eunjin Jeon
@@ -103,72 +110,134 @@
   file: orcid.yaml
 - id: doi:10.1007/978-3-031-72069-7_6
   title: "BrainWaveNet: Wavelet-Based Transformer for\_Autism Spectrum Disorder Diagnosis"
+  image: /images/BrainWaveNet Wavelet-Based Transformer for Autism Spectrum Disorder Diagnosis.jpg
   authors:
   - Ah-Yeong Jeong
   - Da-Woon Heo
   - Eunsong Kang
   - Heung-Il Suk
-  publisher: Lecture Notes in Computer Science
-  date: '2024-01-01'
+  publisher: Medical Image Computing and Computer Assisted Intervention – MICCAI 2024. MICCAI 2024. Lecture Notes in Computer Science
+  date: '2024-10-01'
   link: https://doi.org/hbg65s
   orcid: 0009-0007-3010-5144
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
+- id: conf_icassp_2024
+  title: Eigendecomposition-based spatial-temporal attention for brain cognitive states identification
+  image: /images/Eigendecomposition-Based Spatial-Temporal Attention for Brain Cognitive States Identification.gif
   authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+  - Jiwon Lee
+  - Eunsong Kang
+  - Junyeong Maeng
+  - Heung-Il Suk
+  publisher: ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
+  date: '2024-04-01'
+  link: https://doi.org/10.1109/ICASSP48485.2024.10448019
+  orcid: 0009-0007-3010-5144
+  plugin: orcid.py
+  file: orcid.yaml
+- id: conf_miccai_2022
+  title: Prototype learning of inter-network connectivity for ASD diagnosis and personalized analysis
+  image: /images/Prototype Learning of Inter-network Connectivity for ASD Diagnosis and Personalized Analysis.png
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+  - Eunsong Kang
+  - Da-Woon Heo
+  - Heung-Il Suk
+  publisher: International Conference on Medical Image Computing and Computer-Assisted Intervention
+  date: '2022-09-01'
+  link: https://doi.org/10.1007/978-3-031-16437-8_32
+  orcid: 0009-0007-3010-5144
+  plugin: orcid.py
+  file: orcid.yaml
+- id: conf_miccai_2021
+  title: Meta-modulation network for domain generalization in multi-site fMRI classification
+  image: /images/Meta-modulation Network for Domain Generalization in Multi-site fMRI Classification git.png
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-  plugin: sources.py
-  file: sources.yaml
+  - Jaein Lee
+  - Eunsong Kang
+  - Eunjin Jeon
+  - Heung-Il Suk
+  publisher: International Conference on Medical Image Computing and Computer-Assisted Intervention
+  date: '2021-09-01'
+  link: https://doi.org/10.1007/978-3-030-87240-3_48
+  orcid: 0009-0007-3010-5144
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TMI.2025.3631105
+  title: Explainable Normative Modeling for Brain Disorder Identification in Resting-State fMRI
+  image: /images/Explainable Normative Modeling for Brain.png
+  authors:
+  - Yeajin Shon
+  - Eunsong Kang
+  - Da-Woon Heo
+  - Heung-Il Suk
+  publisher: IEEE Transactions on Medical Imaging
+  date: '2025-11-01'
+  link: https://doi.org/10.1109/TMI.2025.3631105
+  orcid: 0009-0007-3010-5144
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41598-024-71309-2
+  title: Neurodevelopmental imprints of sociomarkers in adolescent brain connectomes
+  image: /images/Neurodevelopmental imprints of sociomarkers in adolescent brain connectomes.webp
+  authors:
+  - Eunsong Kang
+  - Byungyeon Yun
+  - Jiook Cha
+  - Heung-Il Suk
+  - Eun Kyong Shin
+  publisher: Scientific Reports
+  date: '2024-09-01'
+  link: https://doi.org/10.1038/s41598-024-71309-2
+  orcid: 0009-0007-3010-5144
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41598-023-45796-8
+  title: Module of Axis-based Nexus Attention for weakly supervised object localization
+  image: /images/Module of Axis-based Nexus Attention for weakly supervised object localization.webp
+  authors:
+  - Junghyo Sohn
+  - Eunjin Jeon
+  - Wonsik Jung
+  - Eunsong Kang
+  - Heung-Il Suk
+  publisher: Scientific Reports
+  date: '2023-11-01'
+  link: https://doi.org/10.1038/s41598-023-45796-8
+  orcid: 0009-0007-3010-5144
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.psychres.2022.114871
+  title: Altered functional connectivity in psychotic disorder not otherwise specified
+  image: /images/Altered functional connectivity in psychotic disorder not otherwise specified.jpg
+  authors:
+  - Woo-Sung Kim
+  - Da-Woon Heo
+  - Jie Shen
+  - Uyanga Tsogt
+  - Soyolsaikhan Odkhuu
+  - Jaein Lee
+  - Eunsong Kang
+  - Sung-Wan Kim
+  - Heung-Il Suk
+  - Young-Chul Chung
+  publisher: Psychiatry Research
+  date: '2022-11-01'
+  link: https://doi.org/10.1016/j.psychres.2022.114871
+  orcid: 0009-0007-3010-5144
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neuroimage.2021.118048
+  title: A unified framework for personalized regions selection and functional relation modeling for early MCI identification
+  image: /images/A unified framework for personalized regions selection and functional relation modeling for early MCI identification.jpg
+  authors:
+  - Jiyeon Lee
+  - Wonjun Ko
+  - Eunsong Kang
+  - Heung-Il Suk
+  publisher: NeuroImage
+  date: '2021-08-01'
+  link: https://doi.org/10.1016/j.neuroimage.2021.118048
+  orcid: 0009-0007-3010-5144
+  plugin: orcid.py
+  file: orcid.yaml
