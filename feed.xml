@@ -1,4 +1,54 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://daisylab-knu.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://daisylab-knu.github.io/" rel="alternate" type="text/html" /><updated>2026-06-29T08:50:28+00:00</updated><id>https://daisylab-knu.github.io/feed.xml</id><title type="html">DAISY LAB</title><subtitle>An engaging 1-3 sentence description of your lab.</subtitle><entry><title type="html">KCC 2026 학부생 논문 채택: fMRI와 LLM을 활용한 뇌 신경 영상 연구</title><link href="https://daisylab-knu.github.io/2026/05/22/kcc2026-submission.html" rel="alternate" type="text/html" title="KCC 2026 학부생 논문 채택: fMRI와 LLM을 활용한 뇌 신경 영상 연구" /><published>2026-05-22T00:00:00+00:00</published><updated>2026-06-29T08:49:51+00:00</updated><id>https://daisylab-knu.github.io/2026/05/22/kcc2026-submission</id><content type="html" xml:base="https://daisylab-knu.github.io/2026/05/22/kcc2026-submission.html"><![CDATA[<p>DAISY LAB에서 KCC 2026(한국소프트웨어종합학술대회)에 학부생 연구 논문 두 편이 성공적으로 채택되었습니다!</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://daisylab-knu.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://daisylab-knu.github.io/" rel="alternate" type="text/html" /><updated>2026-07-03T10:31:02+00:00</updated><id>https://daisylab-knu.github.io/feed.xml</id><title type="html">DAISY LAB</title><subtitle>An engaging 1-3 sentence description of your lab.</subtitle><entry><title type="html">KCC 2026 학회 참가 후기</title><link href="https://daisylab-knu.github.io/2026/06/26/kcc2026-conference.html" rel="alternate" type="text/html" title="KCC 2026 학회 참가 후기" /><published>2026-06-26T00:00:00+00:00</published><updated>2026-07-03T10:30:12+00:00</updated><id>https://daisylab-knu.github.io/2026/06/26/kcc2026-conference</id><content type="html" xml:base="https://daisylab-knu.github.io/2026/06/26/kcc2026-conference.html"><![CDATA[<p><img src="images/kcc2026/01_kcc2026_main_banner.jpg" alt="KCC2026 학회 외부 사진" />
+DAISY LAB이 <strong>2026 한국컴퓨터종합학술대회(KCC2026)</strong>에 참가했습니다.
+이번 학회에서는 포스터 발표와 세션 참관, 학생 리셉션 등을 경험했는데요, 그 과정을 간단히 정리해 봤습니다.</p>
+
+<hr />
+
+<h3 id="학회-현장">학회 현장</h3>
+<p><img src="images/kcc2026/02_kcc2026_venue_inside.jpg" alt="KCC2026 학회장 내부 사진" />
+이번 KCC2026은 제주국제컨벤션센터에서 열렸습니다. 발표장과 포스터 세션장이 가까이 붙어 있어 이동하면서 여러 프로그램을 자연스럽게 둘러볼 수 있었습니다.</p>
+
+<hr />
+
+<h3 id="학생-리셉션-및-네트워킹">학생 리셉션 및 네트워킹</h3>
+<!-- 사진 추천: 'KCC2026 후원업체지원 학생리셉션' 현수막 사진 -->
+<p><img src="images/kcc2026/03_student_reception_banner.jpg" alt="KCC2026 후원업체지원 학생리셉션" />
+후원 업체 지원으로 학생 리셉션이 열렸습니다. 연구 이야기뿐 아니라 진로나 실무에 관한 이야기도 나눌 수 있어 유익했습니다.</p>
+
+<!-- 사진 추천: 기업 발표 장면 또는 Liner 발표 장면 -->
+<p><img src="images/kcc2026/04_industry_session.jpg" alt="후원 기업 발표 및 세션" />
+기업 세션에서는 산업 현장에서 AI가 실제로 어떻게 활용되고 있는지 들어볼 수 있었습니다. 학교에서 하는 연구가 서비스로 이어지는 흐름을 직접 확인할 수 있는 자리였습니다.</p>
+
+<hr />
+
+<h3 id="포스터-발표">포스터 발표</h3>
+<!-- 사진 추천: CITCA 포스터가 정면으로 보이는 사진 -->
+<p><img src="images/kcc2026/05_citca_poster_1.jpg" alt="Hyfi-Maba 포스터 발표 자료" />
+포스터 세션에서는 저희 연구실의 rs-fMRI 기반 자폐 스펙트럼 장애 진단 연구를 발표했습니다.</p>
+
+<hr />
+
+<h3 id="세션-참관">세션 참관</h3>
+
+<!-- 사진 추천: Takeaways 슬라이드 사진 -->
+<p><img src="images/kcc2026/09_session_takeaways.jpg" alt="세션 Takeaways" />
+한 발표에서 들은 <strong>“계획은 언제나 바뀌므로 항상 준비해야 한다”</strong>는 말도 인상 깊었습니다. 연구에서도 예상과 다른 결과가 나올 때 유연하게 대처하는 것이 중요하다는 점을 다시 생각하게 됐습니다.</p>
+
+<p><img src="images/kcc2026/08_ai_session_slide.jpg" alt="AI 관련 세션 발표 자료" />
+저도 할래요!!! 강연을 듣고 연구실 지원사업에 대한 이야기도 들을 수 있었다.
+—</p>
+
+<h3 id="학회-후-짧은-휴식">학회 후 짧은 휴식</h3>
+<!-- 사진 추천: 수영장 야경 사진 또는 제주 분위기가 드러나는 사진. 블로그가 연구실 공식 기록이면 1장만 사용하는 것을 추천 -->
+<p><img src="images/kcc2026/10_jeju_night_view.jpg" alt="학회 일정 이후의 제주 풍경" />
+학회 일정을 마치고 제주에서 잠깐 쉬는 시간도 가졌습니다. 연구실 멤버들과 여유롭게 이야기하면서 다음 연구 방향에 대한 대화도 자연스럽게 이어졌습니다.
+<!-- 선택 사진: 음식 사진을 추가하고 싶을 때 사용. 공식 블로그에서는 생략 가능 -->
+<!-- ![학회 일정 중 함께한 식사](images/11_jeju_meal.jpg) --></p>
+
+<hr />
+
+<h3 id="마무리">마무리</h3>
+<p>이번 KCC2026에서는 포스터 발표를 통해 연구를 점검하고, 여러 세션과 네트워킹에서 새로운 아이디어를 얻을 수 있었습니다. 앞으로도 DAISY LAB은 학회 참여를 이어가며 연구 성과를 공유할 예정입니다!</p>]]></content><author><name>DAISY LAB</name></author><category term="notice" /><category term="KCC2026" /><summary type="html"><![CDATA[DAISY LAB이 2026 한국컴퓨터종합학술대회(KCC2026)에 참가했습니다. 이번 학회에서는 포스터 발표와 세션 참관, 학생 리셉션 등을 경험했는데요, 그 과정을 간단히 정리해 봤습니다.]]></summary></entry><entry><title type="html">KCC 2026 학부생 논문 채택: fMRI와 LLM을 활용한 뇌 신경 영상 연구</title><link href="https://daisylab-knu.github.io/2026/05/22/kcc2026-submission.html" rel="alternate" type="text/html" title="KCC 2026 학부생 논문 채택: fMRI와 LLM을 활용한 뇌 신경 영상 연구" /><published>2026-05-22T00:00:00+00:00</published><updated>2026-07-03T10:30:12+00:00</updated><id>https://daisylab-knu.github.io/2026/05/22/kcc2026-submission</id><content type="html" xml:base="https://daisylab-knu.github.io/2026/05/22/kcc2026-submission.html"><![CDATA[<p>DAISY LAB에서 KCC 2026(한국소프트웨어종합학술대회)에 학부생 연구 논문 두 편이 성공적으로 채택되었습니다!</p>
 
 <p>이번에 채택된 연구들은 모두 <strong>fMRI(기능적 자기공명영상) 데이터</strong>와 최신 <strong>LLM(대규모 언어 모델)</strong> 및 첨단 딥러닝 아키텍처를 결합하여, 뇌 신경 질환 진단과 영상 분석의 새로운 가능성을 제시하는 흥미로운 주제들을 다루고 있습니다.</p>
 
@@ -14,4 +64,4 @@
 <h4 id="김지호-강은송--hifi-mamba-계층적-film-변조를-적용한-휴지상태-기능적-뇌-신경-영상-기반-분석-모델--korean-institute-of-information-scientists-and-engineers">김지호, 강은송 | Hifi-Mamba: 계층적 FiLM 변조를 적용한 휴지상태 기능적 뇌 신경 영상 기반 분석 모델 | Korean Institute of Information Scientists and Engineers</h4>
 <p>최신 상태 공간 모델(State Space Model)인 Mamba 아키텍처에 계층적 FiLM(Feature-wise Linear Modulation) 변조 기법을 결합하여, 휴지상태(Resting-state) fMRI 데이터를 효과적으로 학습하는 모델을 제안했습니다. 이 모델은 복잡하고 방대한 시공간적 동역학이 존재하는 뇌 신경 영상 데이터 속에서 질환과 관련된 중요한 패턴을 빠르고 정확하게 포착할 수 있도록 설계되었습니다.</p>
 
-<p>치열하게 연구에 매진하여 훌륭한 논문을 완성해 낸 두 연구원에게 큰 박수를 보냅니다! 좋은 결과가 있기를 랩원 모두가 함께 응원합니다. 🎉</p>]]></content><author><name>DAISY LAB</name></author><category term="notice" /><category term="KCC2026" /><category term="fMRI" /><category term="LLM" /><category term="publication" /><summary type="html"><![CDATA[DAISY LAB에서 KCC 2026(한국소프트웨어종합학술대회)에 학부생 연구 논문 두 편이 성공적으로 채택되었습니다!]]></summary></entry><entry><title type="html">DAISY LAB Open!</title><link href="https://daisylab-knu.github.io/2025/10/01/daisylab-open.html" rel="alternate" type="text/html" title="DAISY LAB Open!" /><published>2025-10-01T00:00:00+00:00</published><updated>2026-06-29T08:49:51+00:00</updated><id>https://daisylab-knu.github.io/2025/10/01/daisylab-open</id><content type="html" xml:base="https://daisylab-knu.github.io/2025/10/01/daisylab-open.html"><![CDATA[<p>The DAISY Lab has been launched! We will be sharing various news and research achievements from our lab here. Thank you for your interest.</p>]]></content><author><name></name></author><category term="DAISYLAB" /><category term="Notice" /><summary type="html"><![CDATA[The DAISY Lab has been launched! We will be sharing various news and research achievements from our lab here. Thank you for your interest.]]></summary></entry></feed>
+<p>치열하게 연구에 매진하여 훌륭한 논문을 완성해 낸 두 연구원에게 큰 박수를 보냅니다! 좋은 결과가 있기를 랩원 모두가 함께 응원합니다. 🎉</p>]]></content><author><name>DAISY LAB</name></author><category term="notice" /><category term="KCC2026" /><category term="fMRI" /><category term="LLM" /><category term="publication" /><summary type="html"><![CDATA[DAISY LAB에서 KCC 2026(한국소프트웨어종합학술대회)에 학부생 연구 논문 두 편이 성공적으로 채택되었습니다!]]></summary></entry><entry><title type="html">DAISY LAB Open!</title><link href="https://daisylab-knu.github.io/2025/10/01/daisylab-open.html" rel="alternate" type="text/html" title="DAISY LAB Open!" /><published>2025-10-01T00:00:00+00:00</published><updated>2026-07-03T10:30:12+00:00</updated><id>https://daisylab-knu.github.io/2025/10/01/daisylab-open</id><content type="html" xml:base="https://daisylab-knu.github.io/2025/10/01/daisylab-open.html"><![CDATA[<p>The DAISY Lab has been launched! We will be sharing various news and research achievements from our lab here. Thank you for your interest.</p>]]></content><author><name></name></author><category term="DAISYLAB" /><category term="Notice" /><summary type="html"><![CDATA[The DAISY Lab has been launched! We will be sharing various news and research achievements from our lab here. Thank you for your interest.]]></summary></entry></feed>
