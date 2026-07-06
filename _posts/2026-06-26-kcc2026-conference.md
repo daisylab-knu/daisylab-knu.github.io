@@ -7,7 +7,7 @@ icon: "fa-solid fa-file-pen"
 published: true
 ---
 
-![KCC2026 메인 배너](images/kcc2026/01_kcc2026_main_banner.jpg)
+![KCC2026 메인 배너](images/01_kcc2026_main_banner.jpg)
 
 **"초지능 AI 시대를 향한 컴퓨팅의 새로운 도전"** — 이 슬로건 아래 열린 **KCC 2026**에 DAISY LAB이 다녀왔습니다! 🚀
 
@@ -17,7 +17,7 @@ published: true
 
 ### 📍 학회 현장
 
-![포스터 세션장 내부](images/kcc2026/02_kcc2026_venue_inside.jpg)
+![포스터 세션장 내부](images/02_kcc2026_venue_inside.jpg)
 
 제주국제컨벤션센터 포스터 세션장! 각 분야의 최신 연구가 빼곡히 전시되어 있었습니다. 사진 속 포스터는 저희 연구실의 **CITCA** 연구입니다.
 
@@ -25,11 +25,11 @@ published: true
 
 ### 🎤 학생 리셉션 & 네트워킹
 
-![학생리셉션 현수막](images/kcc2026/03_student_reception_banner.jpg)
+![학생리셉션 현수막](images/03_student_reception_banner.jpg)
 
 오션뷰가 펼쳐진 컨벤션센터에서 **후원업체 지원 학생 리셉션**이 열렸습니다. 바다가 보이는 멋진 공간에서 자유롭게 교류하는 시간!
 
-![Liner 기업 발표](images/kcc2026/04_industry_session.jpg)
+![Liner 기업 발표](images/04_industry_session.jpg)
 
 학술 연구 AI 서비스 Liner의 발표도 들었습니다. 연구에 바로 활용할 수 있는 AI 도구를 소개받아 흥미로웠습니다. 이 외에도 다양한 후원 기업들의 이야기를 직접 들을 수 있는 좋은 기회였습니다.
 
@@ -39,7 +39,7 @@ published: true
 
 이번 학회에서 DAISY LAB은 **두 편의 포스터**를 발표했습니다. 모두 rs-fMRI 기반 자폐 스펙트럼 장애(ASD) 진단 연구입니다.
 
-![Hifi-Mamba 포스터 발표](images/kcc2026/05_citca_poster_1.jpg)
+![Hifi-Mamba 포스터 발표](images/05_citca_poster_1.jpg)
 
 **② Hifi-Mamba**: 계층적 FiLM 변조를 적용한 휴지상태 기능적 뇌 신경 영상 기반 자폐 스펙트럼 진단 **Mamba 모델**
 
@@ -50,11 +50,11 @@ published: true
 
 ### 💡 세션 참관
 
-![AI·디지털기반 창업인재양성 세션](images/kcc2026/08_ai_session_slide.jpg)
+![AI·디지털기반 창업인재양성 세션](images/08_ai_session_slide.jpg)
 
 **AX Deep Tech Bridge Center**에서 진행한 AI·디지털기반 창업인재양성 사업 소개 세션도 참관했습니다. 우수 연구실의 아이디어를 발굴해 Deep Tech 창업으로 연계 지원하는 프로그램으로, KAIST·포항공대·UNIST 등 여러 대학이 참여하고 있었습니다. 연구실 차원에서 도전해볼 만한 좋은 기회! 🔥
 
-![오지형 교수 Takeaways 발표](images/kcc2026/KakaoTalk_20260703_174037197_01.jpg)
+![오지형 교수 Takeaways 발표](images/KakaoTalk_20260703_174037197_01.jpg)
 
 중앙대 오지형 교수님의 대학원 생활 전반에 통하는 조언도 인상적이었습니다! 📝
 
@@ -62,7 +62,7 @@ published: true
 
 ### 🌴 학회 후 제주 한 컷
 
-![제주 숙소 수영장 야경](images/kcc2026/10_jeju_night_view.jpg)
+![제주 숙소 수영장 야경](images/10_jeju_night_view.jpg)
 
 빡빡한 학회 일정을 마치고, 야자수와 수영장 야경이 어우러진 제주의 밤을 만끽했습니다. 연구실 멤버들과 느긋하게 대화하며 재충전! 🏝️
 
