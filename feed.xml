@@ -1,4 +1,55 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://daisylab-knu.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://daisylab-knu.github.io/" rel="alternate" type="text/html" /><updated>2026-07-06T06:00:44+00:00</updated><id>https://daisylab-knu.github.io/feed.xml</id><title type="html">DAISY LAB</title><subtitle>An engaging 1-3 sentence description of your lab.</subtitle><entry><title type="html">🎉 DAISY LAB, KCC 2026 참가!</title><link href="https://daisylab-knu.github.io/2026/06/26/kcc2026-conference.html" rel="alternate" type="text/html" title="🎉 DAISY LAB, KCC 2026 참가!" /><published>2026-06-26T00:00:00+00:00</published><updated>2026-07-06T05:56:05+00:00</updated><id>https://daisylab-knu.github.io/2026/06/26/kcc2026-conference</id><content type="html" xml:base="https://daisylab-knu.github.io/2026/06/26/kcc2026-conference.html"><![CDATA[<p><img src="/images/kcc2026/01_kcc2026_main_banner.jpg" alt="KCC2026 메인 배너" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://daisylab-knu.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://daisylab-knu.github.io/" rel="alternate" type="text/html" /><updated>2026-08-11T02:58:29+00:00</updated><id>https://daisylab-knu.github.io/feed.xml</id><title type="html">DAISY LAB</title><subtitle>An engaging 1-3 sentence description of your lab.</subtitle><entry><title type="html">🏆 김지호 학생, 「AI 의료시스탬 만들기 해커톤」우수상 수상!</title><link href="https://daisylab-knu.github.io/2026/07/30/jiho-kim-teachable-machine-award.html" rel="alternate" type="text/html" title="🏆 김지호 학생, 「AI 의료시스탬 만들기 해커톤」우수상 수상!" /><published>2026-07-30T00:00:00+00:00</published><updated>2026-08-11T02:57:05+00:00</updated><id>https://daisylab-knu.github.io/2026/07/30/jiho-kim-teachable-machine-award</id><content type="html" xml:base="https://daisylab-knu.github.io/2026/07/30/jiho-kim-teachable-machine-award.html"><![CDATA[<p>DAISY LAB의 <strong>김지호</strong> 학생이 <strong>「AI 의료시스탬 만들기 해커톤」</strong> 과정에서 <strong>우수상</strong>을 수상했습니다! 🎉</p>
+
+<!-- excerpt start -->
+<p>DAISY LAB 김지호 학생이 AI분야첨단산업인재양성부트캠프 사업단에서 주최한「초급 몰입형 부트캠프: Teachable Machine 활용 AI 의료시스템 만들기 해커톤」과정에서 우수상을 수상했습니다! 이번 해커톤은 KT&amp;G 상상마당 춘천스테이에서 7월 29일(수)부터 30일(목)까지 이틀간 진행됐습니다.
+<!-- excerpt end --></p>
+
+<hr />
+
+<h3 id="-수상-내역">📌 수상 내역</h3>
+
+<p><img src="/images/medical_AI_award.jpg" alt="의료 AI 해커톤 우수상" /></p>
+
+<table>
+  <thead>
+    <tr>
+      <th>항목</th>
+      <th>내용</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>수상자</td>
+      <td>김지호 (Jiho Kim)</td>
+    </tr>
+    <tr>
+      <td>과정명</td>
+      <td>초급 몰입형 Teachable Machine 활용 AI 의료 시스템 만들기</td>
+    </tr>
+    <tr>
+      <td>수상</td>
+      <td>우수상</td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<h3 id="-어떤-과정이었나요">💡 어떤 과정이었나요?</h3>
+
+<p>이번 해커톤에서는 사전교육(30시간)을 이수하고 온 의과대학생들과 함께 AI 기술을 활용해서 의료 현장의 문제를 함께 분석하고, 서비스 프로토타입을 개발하여 이를 발표하는 프로젝트를 수행했습니다!</p>
+
+<p>김지호 학생이 속한 2팀은 <strong>OcuSight</strong> 서비스 개발했습니다! 이 서비스는 스마트폰으로 눈의 정명, 아래 눈꺼풀을 촬영하여 결막 창백, 공막 황달, 익상편, 결막 충혈 4가지 질환을 탐지 및 인과 또는 내과 추천을 해주도록 개발했습니다! 의과대학생들의 의료 지식과 AI 전공 학생들이 만들어낸 뜻 깊은 결과물입니다.</p>
+
+<p>이를 통해 김지호 학생은 의과대학생들이 주는 인사이트를 직접 접목해보고 그들의 의료 지식을 활용해서 다양한 데이터를 확보하고 서비스를 개발하는 것이 즐거웠고, 의료 전문성과 AI 기술을 융합한 프로젝트를 수행함으로써 융합형 문제 해결 역량과 협업 능력을 함께 강화할 수 있어서 뜻 깊었다고 했습니다.</p>
+
+<hr />
+
+<h3 id="-축하합니다">🎊 축하합니다!</h3>
+
+<p>짧은 기간 동안 몰입해서 완성도 높은 결과물을 만들어 낸 김지호 학생에게 랩원 모두가 축하를 전합니다! 👏</p>
+
+<p>DAISY LAB은 앞으로도 연구원들의 다양한 도전과 성장을 함께 응원하고 공유하겠습니다. 다음 소식도 기대해 주세요! 🚀</p>]]></content><author><name>DAISY LAB</name></author><category term="notice" /><category term="award" /><category term="AI" /><category term="Teachable Machine" /><category term="healthcare" /><summary type="html"><![CDATA[DAISY LAB의 김지호 학생이 「AI 의료시스탬 만들기 해커톤」 과정에서 우수상을 수상했습니다! 🎉]]></summary></entry><entry><title type="html">🎉 DAISY LAB, KCC 2026 참가!</title><link href="https://daisylab-knu.github.io/2026/06/26/kcc2026-conference.html" rel="alternate" type="text/html" title="🎉 DAISY LAB, KCC 2026 참가!" /><published>2026-06-26T00:00:00+00:00</published><updated>2026-08-11T02:57:05+00:00</updated><id>https://daisylab-knu.github.io/2026/06/26/kcc2026-conference</id><content type="html" xml:base="https://daisylab-knu.github.io/2026/06/26/kcc2026-conference.html"><![CDATA[<p><img src="/images/kcc2026/01_kcc2026_main_banner.jpg" alt="KCC2026 메인 배너" /></p>
 
 <p><strong>“초지능 AI 시대를 향한 컴퓨팅의 새로운 도전”</strong> — 이 슬로건 아래 열린 <strong>KCC 2026</strong>에 DAISY LAB이 다녀왔습니다! 🚀</p>
 
@@ -57,7 +108,7 @@
 
 <p>빡빡한 학회 일정을 마치고, 야자수와 수영장 야경이 어우러진 제주의 밤을 만끽했습니다! 🏝️</p>
 
-<p>포스터 2편 발표, 산업계 네트워킹, 최신 연구 트렌드 파악까지 — 정말 알찬 KCC 2026이었습니다. DAISY LAB은 앞으로도 활발하게 학회에 참여하며 연구 성과를 공유하겠습니다. 다음 학회도 기대해 주세요! 👋</p>]]></content><author><name>DAISY LAB</name></author><category term="notice" /><category term="KCC2026" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">KCC 2026 학부생 논문 채택: fMRI와 LLM을 활용한 뇌 신경 영상 연구</title><link href="https://daisylab-knu.github.io/2026/05/22/kcc2026-submission.html" rel="alternate" type="text/html" title="KCC 2026 학부생 논문 채택: fMRI와 LLM을 활용한 뇌 신경 영상 연구" /><published>2026-05-22T00:00:00+00:00</published><updated>2026-07-06T05:56:05+00:00</updated><id>https://daisylab-knu.github.io/2026/05/22/kcc2026-submission</id><content type="html" xml:base="https://daisylab-knu.github.io/2026/05/22/kcc2026-submission.html"><![CDATA[<p>DAISY LAB에서 KCC 2026(한국소프트웨어종합학술대회)에 학부생 연구 논문 두 편이 성공적으로 채택되었습니다!</p>
+<p>포스터 2편 발표, 산업계 네트워킹, 최신 연구 트렌드 파악까지 — 정말 알찬 KCC 2026이었습니다. DAISY LAB은 앞으로도 활발하게 학회에 참여하며 연구 성과를 공유하겠습니다. 다음 학회도 기대해 주세요! 👋</p>]]></content><author><name>DAISY LAB</name></author><category term="notice" /><category term="KCC2026" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">KCC 2026 학부생 논문 채택: fMRI와 LLM을 활용한 뇌 신경 영상 연구</title><link href="https://daisylab-knu.github.io/2026/05/22/kcc2026-submission.html" rel="alternate" type="text/html" title="KCC 2026 학부생 논문 채택: fMRI와 LLM을 활용한 뇌 신경 영상 연구" /><published>2026-05-22T00:00:00+00:00</published><updated>2026-08-11T02:57:05+00:00</updated><id>https://daisylab-knu.github.io/2026/05/22/kcc2026-submission</id><content type="html" xml:base="https://daisylab-knu.github.io/2026/05/22/kcc2026-submission.html"><![CDATA[<p>DAISY LAB에서 KCC 2026(한국소프트웨어종합학술대회)에 학부생 연구 논문 두 편이 성공적으로 채택되었습니다!</p>
 
 <p>이번에 채택된 연구들은 모두 <strong>fMRI(기능적 자기공명영상) 데이터</strong>와 최신 <strong>LLM(대규모 언어 모델)</strong> 및 첨단 딥러닝 아키텍처를 결합하여, 뇌 신경 질환 진단과 영상 분석의 새로운 가능성을 제시하는 흥미로운 주제들을 다루고 있습니다.</p>
 
@@ -73,4 +124,4 @@
 <h4 id="김지호-강은송--hifi-mamba-계층적-film-변조를-적용한-휴지상태-기능적-뇌-신경-영상-기반-분석-모델--korean-institute-of-information-scientists-and-engineers">김지호, 강은송 | Hifi-Mamba: 계층적 FiLM 변조를 적용한 휴지상태 기능적 뇌 신경 영상 기반 분석 모델 | Korean Institute of Information Scientists and Engineers</h4>
 <p>최신 상태 공간 모델(State Space Model)인 Mamba 아키텍처에 계층적 FiLM(Feature-wise Linear Modulation) 변조 기법을 결합하여, 휴지상태(Resting-state) fMRI 데이터를 효과적으로 학습하는 모델을 제안했습니다. 이 모델은 복잡하고 방대한 시공간적 동역학이 존재하는 뇌 신경 영상 데이터 속에서 질환과 관련된 중요한 패턴을 빠르고 정확하게 포착할 수 있도록 설계되었습니다.</p>
 
-<p>치열하게 연구에 매진하여 훌륭한 논문을 완성해 낸 두 연구원에게 큰 박수를 보냅니다! 좋은 결과가 있기를 랩원 모두가 함께 응원합니다. 🎉</p>]]></content><author><name>DAISY LAB</name></author><category term="notice" /><category term="KCC2026" /><category term="fMRI" /><category term="LLM" /><category term="publication" /><summary type="html"><![CDATA[DAISY LAB에서 KCC 2026(한국소프트웨어종합학술대회)에 학부생 연구 논문 두 편이 성공적으로 채택되었습니다!]]></summary></entry><entry><title type="html">DAISY LAB Open!</title><link href="https://daisylab-knu.github.io/2025/10/01/daisylab-open.html" rel="alternate" type="text/html" title="DAISY LAB Open!" /><published>2025-10-01T00:00:00+00:00</published><updated>2026-07-06T05:56:05+00:00</updated><id>https://daisylab-knu.github.io/2025/10/01/daisylab-open</id><content type="html" xml:base="https://daisylab-knu.github.io/2025/10/01/daisylab-open.html"><![CDATA[<p>The DAISY Lab has been launched! We will be sharing various news and research achievements from our lab here. Thank you for your interest.</p>]]></content><author><name></name></author><category term="DAISYLAB" /><category term="Notice" /><summary type="html"><![CDATA[The DAISY Lab has been launched! We will be sharing various news and research achievements from our lab here. Thank you for your interest.]]></summary></entry></feed>
+<p>치열하게 연구에 매진하여 훌륭한 논문을 완성해 낸 두 연구원에게 큰 박수를 보냅니다! 좋은 결과가 있기를 랩원 모두가 함께 응원합니다. 🎉</p>]]></content><author><name>DAISY LAB</name></author><category term="notice" /><category term="KCC2026" /><category term="fMRI" /><category term="LLM" /><category term="publication" /><summary type="html"><![CDATA[DAISY LAB에서 KCC 2026(한국소프트웨어종합학술대회)에 학부생 연구 논문 두 편이 성공적으로 채택되었습니다!]]></summary></entry><entry><title type="html">DAISY LAB Open!</title><link href="https://daisylab-knu.github.io/2025/10/01/daisylab-open.html" rel="alternate" type="text/html" title="DAISY LAB Open!" /><published>2025-10-01T00:00:00+00:00</published><updated>2026-08-11T02:57:05+00:00</updated><id>https://daisylab-knu.github.io/2025/10/01/daisylab-open</id><content type="html" xml:base="https://daisylab-knu.github.io/2025/10/01/daisylab-open.html"><![CDATA[<p>The DAISY Lab has been launched! We will be sharing various news and research achievements from our lab here. Thank you for your interest.</p>]]></content><author><name></name></author><category term="DAISYLAB" /><category term="Notice" /><summary type="html"><![CDATA[The DAISY Lab has been launched! We will be sharing various news and research achievements from our lab here. Thank you for your interest.]]></summary></entry></feed>
