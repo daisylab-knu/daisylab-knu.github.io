@@ -23,9 +23,8 @@ Meet the members of DAISY Lab.
 {% include list.html data="members" component="portrait" filter="role == 'ms' and group != 'alum'" %} -->
 
 ### Students
-<div style="display: flex; flex-direction: column; align-items: center;">
 {% include list.html data="members" component="portrait" filter="role == 'undergrad' and group != 'alum'" %}
-</div>
+
 
 {% include section.html %}
 
