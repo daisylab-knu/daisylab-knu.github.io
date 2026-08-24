@@ -1,16 +1,5 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- title: "DAMEC: Disease-Aware Multi-Expert Consensus Framework for Study-Level Radiology Report Generation"
-  authors:
-  - Junyeong Maeng
-  - Eunsong Kang†
-  - Heung-Il Suk
-  publisher: 35th ACM Conference on Information and Knowledge Management (CIKM), 2026 (Accepted)
-  date: '2026-10-01'
-  buttons:
-  - type: oral
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1007/978-3-032-04981-0_15
   title: "Diff-RRG: Longitudinal Disease-Wise Patch Difference as\_Guidance for\_\
     LLM-Based Radiology Report Generation"
@@ -141,6 +130,19 @@
   file: sources.yaml
   image: /images/BrainWaveNet Wavelet-Based Transformer for Autism Spectrum Disorder
     Diagnosis.jpg
+- title: 'DAMEC: Disease-Aware Multi-Expert Consensus Framework for Study-Level Radiology
+    Report Generation'
+  authors:
+  - Junyeong Maeng
+  - "Eunsong Kang\u2020"
+  - Heung-Il Suk
+  publisher: 35th ACM Conference on Information and Knowledge Management (CIKM), 2026
+    (Accepted)
+  date: '2026-10-01'
+  buttons:
+  - type: oral
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1109/TMI.2025.3631105
   title: Explainable Normative Modeling for Brain Disorder Identification in Resting-State
     fMRI
