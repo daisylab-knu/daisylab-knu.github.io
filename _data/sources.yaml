@@ -1,4 +1,15 @@
 # Existing citations overrides (for mapping local images or overriding fields)
+- id: CIKM 2026 (Oral)
+  title: "DAMEC: Disease-Aware Multi-Expert Consensus Framework for Study-Level Radiology Report Generation"
+  authors:
+  - Junyeong Maeng
+  - Eunsong Kang
+  - Heung-Il Suk
+  publisher: 35th ACM Conference on Information and Knowledge Management (CIKM), 2026 (Accepted)
+  date: '2026-10-01'
+  buttons:
+  - type: oral
+
 - id: doi:10.1007/978-3-032-04981-0_15
   image: /images/Diff-RRG Longitudinal Disease-Wise Patch Difference as Guidance for LLM-Based Radiology Report Generation.png
 

@@ -155,6 +155,11 @@ error:
 # publications
 
 paper:
+  icon: fa-solid fa-microphone
+  text: Oral
+  tooltip: Oral Presentation
+
+paper:
   icon: fa-solid fa-scroll
   text: Paper
   tooltip: Paper
