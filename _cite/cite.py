@@ -135,8 +135,12 @@ for index, source in enumerate(sources):
     # source id
     _id = get_safe(source, "id", "").strip()
 
-    # manubot doesn't work without an id
-    if _id:
+    # check if valid manubot identifier
+    manubot_prefixes = ("doi:", "pmid:", "pmc:", "arxiv:", "isbn:", "url:", "urn:", "wikidata:", "raw:", "handle:")
+    is_manubot_id = bool(_id and any(_id.lower().startswith(prefix) for prefix in manubot_prefixes))
+
+    # manubot doesn't work without a valid identifier id
+    if is_manubot_id:
         log("Using Manubot to generate citation", indent=1)
 
         try:
