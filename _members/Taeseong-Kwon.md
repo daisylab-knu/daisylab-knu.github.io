@@ -6,4 +6,3 @@ links:
   github: TaeeeSeong
 ---
 
-Alice is a PhD student researching medical imaging.
