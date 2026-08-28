@@ -7,4 +7,5 @@ links:
   github: BBIP
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+<span style="color: var(--background);">LoL Tier: Bronze IV, Experience: 10 years and more</span>
