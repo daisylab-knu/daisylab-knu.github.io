@@ -3,21 +3,26 @@
   authors:
   - Junyeong Maeng
   - Eunsong Kang†
-  - Heung-Il Suk
-  publisher: 35th ACM Conference on Information and Knowledge Management (CIKM), 2026 (Accepted)
-  date: '2026-10-01'
+  - Heung-Il Suk†
+  image: /images/DAMEC Disease-Aware Multi-Expert Consensus Framework for Study-Level Radiology Report Generation.png
+  publisher: 35th ACM Conference on Information and Knowledge Management (CIKM 2026, Oral)
+  date: '2026-11-07'
 
 - id: doi:10.1007/978-3-032-04981-0_15
   image: /images/Diff-RRG Longitudinal Disease-Wise Patch Difference as Guidance for LLM-Based Radiology Report Generation.png
+  publisher: Medical Image Computing and Computer Assisted Intervention (MICCAI 2025)
+  
 
 - id: doi:10.1145/3746252.3761300
   image: /images/Quantized Factor Identifiable Causal Effect Variational Autoencoder.png
+  publisher: 34th ACM International Conference on Information and Knowledge Management (CIKM 2025)
 
 - id: doi:10.1016/j.neuroimage.2025.121077
   image: /images/A quantitatively interpretable model for Alzheimer’s disease prediction using.jpg
 
 - id: doi:10.1007/978-981-97-8702-9_18
   image: /images/Prototype-Guided Contrastive Knowledge Graph Representation Learning for Diagnosis Prediction.png
+  publisher: International Conference on Pattern Recognition and Artificial Intelligence (ICPRAI 2024)
 
 - id: doi:10.1109/TNNLS.2023.3311195
   image: /images/Site-Invariant Meta-Modulation Learning for Multisite Autism Spectrum Disorders Diagnosis.gif
@@ -30,8 +35,7 @@
 
 - id: doi:10.1007/978-3-031-72069-7_6
   image: /images/BrainWaveNet Wavelet-Based Transformer for Autism Spectrum Disorder Diagnosis.jpg
-  publisher: Medical Image Computing and Computer Assisted Intervention – MICCAI 2024. MICCAI 2024. Lecture Notes in Computer Science
-  date: '2024-10-01'
+  publisher: Medical Image Computing and Computer Assisted Intervention (MICCAI 2024)
 
 - id: doi:10.1109/TMI.2025.3631105
   image: /images/Explainable Normative Modeling for Brain.png
@@ -50,9 +54,12 @@
 
 - id: doi:10.1109/ICASSP48485.2024.10448019
   image: /images/Eigendecomposition-Based Spatial-Temporal Attention for Brain Cognitive States Identification.gif
+  publisher: IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2024)
 
 - id: doi:10.1007/978-3-031-16437-8_32
   image: /images/Prototype Learning of Inter-network Connectivity for ASD Diagnosis and Personalized Analysis.png
+  publisher: International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI 2022)
 
 - id: doi:10.1007/978-3-030-87240-3_48
   image: /images/Meta-modulation Network for Domain Generalization in Multi-site fMRI Classification git.png
+  publisher: International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI 2021)
